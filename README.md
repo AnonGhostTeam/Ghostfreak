@@ -51,4 +51,5 @@ Multi-threading can incredibly minimize the overall speed when you have a lot of
 
 `python3 ghostfreak.py -f /root/hashes.txt -t 10`
 
-
+### License
+Ghostfreak is licensed under [MIT License](https://github.com/AnonGhostTeam/Ghostfreak/blob/master/LICENSE).
